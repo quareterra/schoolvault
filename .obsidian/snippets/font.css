@@ -1,0 +1,5 @@
+:root { --default-font: ui-sans-serif, system-ui !important; }
+
+.markdown-preview-view, .markdown-source-view, .cm-inline-code, .HyperMD-codeblock, .view-header-title, .cm-editor .cm-scroller  {
+  font-family: 'JetBrainsMono Nerd Font', Menlo, Monaco, 'Courier New', monospace !important;
+}

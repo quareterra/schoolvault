@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "5ba47ba30c064d8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "04c0cb71fa3f03e8"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "edf7c7dd3034aa6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a0390dcf83ce65",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "реакции замещения.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 3.064921207943547,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "04c0cb71fa3f03e8"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1234a4136184a54",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b5f8200993e64153",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5b5e1c58f4d4710d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b78d0d7237a8995d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "44e1e3ed4af797c7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5212546c2833ce1d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0fe3d36b8d28a910",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "время молотков.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f3735da7a62ccd0a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "!TODO.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "8279d0f7ad0e2d60",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "!TODO.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "50bd1d32630da251",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "5ba47ba30c064d8d",
+  "lastOpenFiles": [
+    "реакции замещения.md",
+    "рассуждение.md",
+    "безразличное равновесие.md",
+    "аминокислоты.md",
+    "амины.md",
+    "алюминий.md",
+    "cognitive biases.md",
+    "confirmation bias.md",
+    "равновесное состояние системы.md",
+    "основы неорганической химии.md",
+    "эквивалент.md",
+    "home.md",
+    "гидриды.md",
+    "conflict-files-obsidian-git.md",
+    "Правоведение презентация 1.md",
+    "daily/2025-09-24.md",
+    "/Правоведение презентация 1.md",
+    "/daily/2025-09-23.md",
+    "/home.md",
+    "/daily/2025-09-24.md",
+    "/daily/2025-09-20.md",
+    "/daily/2025-09-18.md",
+    "/daily",
+    "время молотков таблица.md",
+    "время молотков ПТД.md",
+    "daily/2025-09-23.md",
+    "daily/2025-09-22.md",
+    "/writing",
+    "/время молотков",
+    "daily",
+    "images/tickets4.png",
+    "images/tickets3.png",
+    "images/place2.png",
+    "images/place.png",
+    "images/museum2.png",
+    "images/museum.png",
+    "/pomidory",
+    "Untitled 1.canvas",
+    "Untitled.base",
+    "Untitled.canvas",
+    "время молотков",
+    "pomidory",
+    "lists",
+    "Pasted image 20250707172446.png",
+    "Pasted image 20250707172410.png",
+    "Untitled",
+    "images/GTD.png"
+  ]
+}

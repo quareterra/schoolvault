@@ -1,0 +1,381 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1727ab114d6ac00b",
+    "type": "split",
+    "children": [
+      {
+        "id": "63a1a3d3a4810730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad7844b2a6e3a728",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "daf614f21cbd098c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7016515488b81228",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1438dd35509c57b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69a5c098473d072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f879cc25d62738fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "историческая пямять.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for историческая пямять"
+            }
+          },
+          {
+            "id": "b09355f5d0d2d1dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "основы неорганической химии.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from основы неорганической химии"
+            }
+          },
+          {
+            "id": "b9d9d7467475939e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "abbcc1f61b3b2ebe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37e5c3012134728b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "22def8987f7ad939",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "eb053ec16092de32",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "b45fc7f0d0ed852c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "485f8780d95516a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "eb25121f10c3620f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "0b1b09f6293fde03",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "f4d0ea898d467a92",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "781443d233c48ad3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "8fcf02511c3e410b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          },
+          {
+            "id": "1f620219805694d4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "темы исследования.md",
+    "home.md",
+    "протолитическая теория Брёнстеда-Лоури.md",
+    "диаграммы Фроста.md",
+    "7-A группа таблицы Мендеелева, свойства простых веществ.md",
+    "7-A группа таблицы Мендеелева, применение.md",
+    "7-A группа таблицы Менделеева, получение простых веществ.md",
+    "7-A группа таблицы Менделеева.md",
+    "8-A группа таблицы Менделеева.md",
+    "2-А группа таблицы Менделеева, применение.md",
+    "3-A группа таблицы менделеева, физические свойства простых веществ.md",
+    "3-A группа таблицы менделеева, химические свойства простых веществ.md",
+    "3-b группа таблицы Менделеева, нахождение и получение.md",
+    "4-A группа таблицы Менделеева, химические свойства простых веществ.md",
+    "4-A группа таблицы Менделеева, получение простых веществ.md",
+    "4-A группа таблицы Менделеева, применение.md",
+    "4-A группа таблицы Менделеева.md",
+    "4-A группа таблицы Менделеева, физические свойства простых веществ.md",
+    "6-A группа таблицы Менделеева, применение.md",
+    "6-A группа таблицы Менделеева, нахождение и получение простых веществ.md",
+    "6-A группа таблицы Менделеева, физические свойства простых веществ.md",
+    "7-A группа таблицы Менделеева, химические свойства простых веществ.md",
+    "3-A группа таблица менделеева, нахождение и получение.md",
+    "3-A группа таблицы Менделеева, применение.md",
+    "6-А группа таблицы Менделеева, химические свойства простых веществ.md",
+    "гидролиз соли слабого основания и сильной кислоты.md",
+    "images/taxes1.png",
+    "images/place.png",
+    "images/intersection.png",
+    "images/museum2.png",
+    "images/museum.png",
+    "images/job2-1.png",
+    "images/job2-2.png",
+    "images/job3-1.png",
+    "images/job3-2.png",
+    "images/job1.png",
+    "hammer_time",
+    "doc_2025-10-20_18-21-05.obsidian.vimrc",
+    "styles.css",
+    "manifest.json",
+    "main.js",
+    "data.json",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
