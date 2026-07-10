@@ -15,15 +15,30 @@
               "type": "markdown",
               "state": {
                 "file": "home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "home"
             }
+          },
+          {
+            "id": "4d43be9f5368cf21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "темы исследования.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "темы исследования"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -327,13 +342,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4d43be9f5368cf21",
   "lastOpenFiles": [
+    "home.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
     "темы исследования.md",
     "Adenosine A2A receptor antagonists.md",
     "Adenosine Deaminase Inhibitors.md",
-    "home.md",
     "протолитическая теория Брёнстеда-Лоури.md",
     "диаграммы Фроста.md",
     "7-A группа таблицы Мендеелева, свойства простых веществ.md",
