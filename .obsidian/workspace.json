@@ -15,30 +15,15 @@
               "type": "markdown",
               "state": {
                 "file": "home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "home"
             }
-          },
-          {
-            "id": "82129b396c18b544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Non-NSAID Selective COX-2 and 5-LOX Inhibitors"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,10 +327,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "82129b396c18b544",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "темы исследования.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
+    "темы исследования.md",
     "Adenosine A2A receptor antagonists.md",
     "Adenosine Deaminase Inhibitors.md",
     "home.md",
