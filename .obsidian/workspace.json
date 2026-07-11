@@ -15,30 +15,15 @@
               "type": "markdown",
               "state": {
                 "file": "home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "home"
             }
-          },
-          {
-            "id": "4d43be9f5368cf21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "темы исследования.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "темы исследования"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,11 +327,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d43be9f5368cf21",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "темы исследования.md",
     "home.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
-    "темы исследования.md",
     "Adenosine A2A receptor antagonists.md",
     "Adenosine Deaminase Inhibitors.md",
     "протолитическая теория Брёнстеда-Лоури.md",
