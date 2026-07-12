@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "темы исследования.md",
-                "mode": "preview",
+                "file": "Parallel Artificial Membrane Permeation Assay.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "темы исследования"
+              "title": "Parallel Artificial Membrane Permeation Assay"
             }
           }
         ],
@@ -358,10 +358,11 @@
   },
   "active": "37e0cf3892ca173f",
   "lastOpenFiles": [
+    "темы исследования.md",
+    "Parallel Artificial Membrane Permeation Assay.md",
     "home.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
     "AutoDock Vina.md",
-    "темы исследования.md",
     "Untitled.md",
     "Adenosine A2A receptor antagonists.md",
     "Adenosine Deaminase Inhibitors.md",
@@ -383,7 +384,6 @@
     "4-A группа таблицы Менделеева, физические свойства простых веществ.md",
     "6-A группа таблицы Менделеева, применение.md",
     "6-A группа таблицы Менделеева, нахождение и получение простых веществ.md",
-    "6-A группа таблицы Менделеева, физические свойства простых веществ.md",
     "images/taxes1.png",
     "images/place.png",
     "images/intersection.png",
