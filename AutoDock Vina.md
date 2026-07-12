@@ -15,3 +15,7 @@ conda install -c bioconda vina -y
 ```
 
 installation of molecule preparation tools:
+```bash
+conda create -n mgltools -c bioconda mgltools -y\
+
+```
