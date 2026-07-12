@@ -15,6 +15,7 @@ conda install -c bioconda vina -y
 ```
 
 installation of molecule preparation tools:
+1. mgltools (for pdb to pdbqt and docking visualiza)
 ```bash
 conda create -n mgltools -c bioconda mgltools -y\
 
