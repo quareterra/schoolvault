@@ -19,5 +19,14 @@ homepage
 ```
 
 ---
-![[темы исследования]]
+- [[Adenosine Deaminase Inhibitors]]
+- [[Non-NSAID Selective COX-2 and 5-LOX Inhibitors]]
+- [[Adenosine A2A receptor antagonists]] 
+
+интересные штуки:
+- ферментирование экстракта с помощью бактерий
+- [[Parallel Artificial Membrane Permeation Assay]]
+- любой подбор параметров
+- plant library screening with [[AutoDock Vina]] 
+
 

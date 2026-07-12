@@ -50,9 +50,22 @@
               "icon": "lucide-file",
               "title": "Parallel Artificial Membrane Permeation Assay"
             }
+          },
+          {
+            "id": "35dfdd0b4c52af9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "темы исследования.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "темы исследования"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -356,10 +369,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37e0cf3892ca173f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "темы исследования.md",
     "Parallel Artificial Membrane Permeation Assay.md",
+    "темы исследования.md",
     "home.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
     "AutoDock Vina.md",
