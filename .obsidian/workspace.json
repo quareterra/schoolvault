@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,8 +18,23 @@
                 "mode": "preview",
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "home"
+            }
+          },
+          {
+            "id": "974db39605ec7a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "autodock vina.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "autodock vina"
             }
           }
         ]
@@ -327,6 +343,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "autodock vina.md",
     "home.md",
     "темы исследования.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
@@ -352,7 +369,6 @@
     "6-A группа таблицы Менделеева, нахождение и получение простых веществ.md",
     "6-A группа таблицы Менделеева, физические свойства простых веществ.md",
     "7-A группа таблицы Менделеева, химические свойства простых веществ.md",
-    "3-A группа таблица менделеева, нахождение и получение.md",
     "images/taxes1.png",
     "images/place.png",
     "images/intersection.png",
