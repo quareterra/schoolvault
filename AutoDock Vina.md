@@ -24,6 +24,7 @@ conda activate mgltools
 
 running a docking test
 ```bash
+vina --receptor protein.pdbqt --ligand ligand.pdbqt --config config.txt --out output.pdbqt
 ```
 
 

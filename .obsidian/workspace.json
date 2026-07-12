@@ -29,26 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AutoDock Vina.md",
-                "mode": "source",
+                "file": "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AutoDock Vina"
-            }
-          },
-          {
-            "id": "710d8ee79dd142b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "темы исследования.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "темы исследования"
+              "title": "Non-NSAID Selective COX-2 and 5-LOX Inhibitors"
             }
           }
         ],
@@ -358,9 +344,9 @@
   },
   "active": "974db39605ec7a81",
   "lastOpenFiles": [
+    "AutoDock Vina.md",
     "темы исследования.md",
     "Untitled.md",
-    "AutoDock Vina.md",
     "home.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
     "Adenosine A2A receptor antagonists.md",
