@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "preview",
                 "source": true
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "home"
             }
@@ -329,8 +327,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "темы исследования.md",
     "home.md",
+    "темы исследования.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
     "Adenosine A2A receptor antagonists.md",
     "Adenosine Deaminase Inhibitors.md",
