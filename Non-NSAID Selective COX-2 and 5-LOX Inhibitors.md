@@ -1,4 +1,4 @@
-циклооксогеназа-2 и липоксигеназа 
+циклооксогеназа-2 и липоксигеназа-5
 AI сводка
 
 To integrate computational chemistry into the study of natural dual COX-2 and 5-LOX inhibitors, you can implement a **multi-target virtual screening** workflow. This approach allows you to computationally screen a library of natural compounds against both enzymes simultaneously to identify "dual-action" candidates before starting wet-lab work.
