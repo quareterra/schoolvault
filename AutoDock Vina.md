@@ -20,7 +20,11 @@ installation of molecule preparation tools:
 conda create -n mgltools -c bioconda mgltools -y\
 conda activate mgltools
 ```
-2. pymol (for ligand preparation): install through 
+2. pymol (for ligand preparation): install from repo
+
+running a docking test
+```bash
+```
 
 
 
