@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -370,11 +370,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "57184bde32dfcabb",
+  "active": "974db39605ec7a81",
   "lastOpenFiles": [
+    "Parallel Artificial Membrane Permeation Assay.md",
     "home.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
-    "Parallel Artificial Membrane Permeation Assay.md",
     "темы исследования.md",
     "AutoDock Vina.md",
     "Untitled.md",
