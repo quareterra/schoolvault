@@ -18,5 +18,7 @@ installation of molecule preparation tools:
 1. mgltools (for pdb to pdbqt and docking visualization)
 ```bash
 conda create -n mgltools -c bioconda mgltools -y\
-
+conda activate mgltools
 ```
+2. pymol (for ligand preparation)
+3. 
