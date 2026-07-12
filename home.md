@@ -26,7 +26,7 @@ homepage
 
 интересные штуки:
 - ферментирование экстракта с помощью бактерий
-- [[Parallel Artificial Membrane Permeation Assay]]
+- [[Parallel Artificial Membrane Permeation Assay]] (мембранная проницаемость)
 - любой подбор параметров
 - plant library screening with [[AutoDock Vina]] 
 
