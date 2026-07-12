@@ -13,3 +13,5 @@ conda activate autodock vina
 conda config --env --add channels conda-forge
 conda install -c bioconda vina -y
 ```
+
+installation of molecule preparation tools:
