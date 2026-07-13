@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "pinned": true,
@@ -37,8 +37,7 @@
               "title": "1-b группа таблицы Менделеева, химические свойства простых веществ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,8 +341,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a6adb59f2911fb38",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "1-b группа таблицы Менделеева, химические свойства простых веществ.md",
     "1-А группа таблицы менделеева, физические свойства простый веществ.md",
     "2-b группа таблицы Менделеева, физические свойства простых веществ.md",
     "Excalidraw/LaComplex.md",
@@ -369,7 +369,6 @@
     "4-A группа таблицы Менделеева, химические свойства простых веществ.md",
     "4-A группа таблицы Менделеева, получение простых веществ.md",
     "4-A группа таблицы Менделеева, применение.md",
-    "4-A группа таблицы Менделеева.md",
     "images/taxes1.png",
     "images/place.png",
     "images/intersection.png",
