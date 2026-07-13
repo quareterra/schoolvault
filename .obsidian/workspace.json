@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,23 +17,22 @@
                 "mode": "source",
                 "source": true
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "home"
             }
           },
           {
-            "id": "a6adb59f2911fb38",
+            "id": "41891bdeffd0e35c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-b группа таблицы Менделеева, химические свойства простых веществ.md",
+                "file": "Adenosine Deaminase Inhibitors.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1-b группа таблицы Менделеева, химические свойства простых веществ"
+              "title": "Adenosine Deaminase Inhibitors"
             }
           }
         ]
@@ -343,18 +341,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Adenosine Deaminase Inhibitors.md",
+    "home.md",
     "1-b группа таблицы Менделеева, химические свойства простых веществ.md",
+    "Adenosine A2A receptor antagonists.md",
     "1-А группа таблицы менделеева, физические свойства простый веществ.md",
     "2-b группа таблицы Менделеева, физические свойства простых веществ.md",
     "Excalidraw/LaComplex.md",
-    "home.md",
     "AutoDock Vina.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
     "Parallel Artificial Membrane Permeation Assay.md",
     "темы исследования.md",
     "Untitled.md",
-    "Adenosine A2A receptor antagonists.md",
-    "Adenosine Deaminase Inhibitors.md",
     "протолитическая теория Брёнстеда-Лоури.md",
     "диаграммы Фроста.md",
     "7-A группа таблицы Мендеелева, свойства простых веществ.md",
