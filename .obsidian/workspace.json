@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "home"
             }
+          },
+          {
+            "id": "a6adb59f2911fb38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutoDock Vina.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "AutoDock Vina"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -327,7 +342,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f620219805694d4",
+  "active": "a6adb59f2911fb38",
   "lastOpenFiles": [
     "home.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
