@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Parallel Artificial Membrane Permeation Assay"
             }
+          },
+          {
+            "id": "5d2a2001fc08a8f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Non-NSAID Selective COX-2 and 5-LOX Inhibitors"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -342,9 +356,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c6391404fc8ba965",
+  "active": "5d2a2001fc08a8f4",
   "lastOpenFiles": [
     "home.md",
+    "Parallel Artificial Membrane Permeation Assay.md",
     "Adenosine Deaminase Inhibitors.md",
     "1-b группа таблицы Менделеева, химические свойства простых веществ.md",
     "Adenosine A2A receptor antagonists.md",
@@ -353,7 +368,6 @@
     "Excalidraw/LaComplex.md",
     "AutoDock Vina.md",
     "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
-    "Parallel Artificial Membrane Permeation Assay.md",
     "темы исследования.md",
     "Untitled.md",
     "протолитическая теория Брёнстеда-Лоури.md",
