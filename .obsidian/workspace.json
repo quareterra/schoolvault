@@ -14,25 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "home.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "home"
-            }
-          },
-          {
-            "id": "41891bdeffd0e35c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adenosine Deaminase Inhibitors.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Adenosine Deaminase Inhibitors"
+              "title": "home"
             }
           }
         ]
@@ -341,8 +327,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Adenosine Deaminase Inhibitors.md",
     "home.md",
+    "Adenosine Deaminase Inhibitors.md",
     "1-b группа таблицы Менделеева, химические свойства простых веществ.md",
     "Adenosine A2A receptor antagonists.md",
     "1-А группа таблицы менделеева, физические свойства простый веществ.md",
