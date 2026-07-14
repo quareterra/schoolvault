@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "home"
             }
+          },
+          {
+            "id": "c6391404fc8ba965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parallel Artificial Membrane Permeation Assay.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Parallel Artificial Membrane Permeation Assay"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -327,7 +342,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c6391404fc8ba965",
   "lastOpenFiles": [
     "home.md",
     "Adenosine Deaminase Inhibitors.md",
