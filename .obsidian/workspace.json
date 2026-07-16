@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "home"
             }
-          },
-          {
-            "id": "c6391404fc8ba965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallel Artificial Membrane Permeation Assay.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Parallel Artificial Membrane Permeation Assay"
-            }
-          },
-          {
-            "id": "5d2a2001fc08a8f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Non-NSAID Selective COX-2 and 5-LOX Inhibitors"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -356,8 +327,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5d2a2001fc08a8f4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
     "home.md",
     "Parallel Artificial Membrane Permeation Assay.md",
     "Adenosine Deaminase Inhibitors.md",
@@ -367,7 +339,6 @@
     "2-b группа таблицы Менделеева, физические свойства простых веществ.md",
     "Excalidraw/LaComplex.md",
     "AutoDock Vina.md",
-    "Non-NSAID Selective COX-2 and 5-LOX Inhibitors.md",
     "темы исследования.md",
     "Untitled.md",
     "протолитическая теория Брёнстеда-Лоури.md",
